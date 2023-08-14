@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Kaisei+Tokumin:wght@400;500;700&family=Poppins:wght@300;400;500&display=swap');
+
+:root{
+    --font-family-1: 'Kaisei Tokumin', serif;
+    --font-family-2: 'Poppins', sans-serif;
+}
+.foto{
+    background-image: url(../İMG/young-female-sitting-shopping-cart.jpg);
+    width: 350px;
+    height: 150px;
+}
+.bok-1{
+    display: none;  
+}
+.offcanvas{
+    width: 800px !important;
+}
